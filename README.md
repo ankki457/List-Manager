@@ -19,13 +19,13 @@ A simple React application that allows users to manage a list of items. Users ca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/item-list-manager.git
+   git clone https://github.com/ankki457/List-Manager
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd item-list-manager
+   cd List-manager
    ```
 
 3. Install the dependencies:
